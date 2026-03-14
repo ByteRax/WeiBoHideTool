@@ -18,7 +18,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-repo/WeiBoHideTool.git
+git clone https://github.com/ByteRax/WeiBoHideTool.git
 cd WeiBoHideTool
 
 # 安装依赖
